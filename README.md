@@ -1,1 +1,1 @@
-# datascience-happiness-income-project
+# Happiness and Income Analysis
